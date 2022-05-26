@@ -2,7 +2,7 @@
 body{
     font-size: 20px;
     font-family: monospace;
-	background-color: #777;
+	background-color: #B0E0E6;
 }
 }
 #container{
@@ -36,7 +36,7 @@ body{
   }
 #start{
 	
-    font-size: 2.5em;
+    font-size: 2.0em;
     font-weight: bold;
     word-break: break-all;
     /* width: 200px; */
