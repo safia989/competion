@@ -1,16 +1,19 @@
+
+
 @media only screen and (max-width: 600px) {
 body{
     font-size: 20px;
     font-family: monospace;
-	background-color: #B0E0E6;
+	background-color: #777;
 }
 }
 #container{
  
+
     margin : 40px auto;
  
     background-color: #E0FFFF;
-    height: 300px;
+    height: 550px;
     width : 700px;
     border-radius: 5px;
     box-shadow: 0px 5px 15px 0px;
@@ -36,7 +39,7 @@ body{
   }
 #start{
 	
-    font-size: 2.0em;
+    font-size: 2.5em;
     font-weight: bold;
     word-break: break-all;
     /* width: 200px; */
@@ -47,7 +50,7 @@ body{
     cursor: pointer;
     position: absolute;
     left: 400px;
-    top: 60px;
+   top: 100px;
     color: #000;
 }
 /* #start:hover{
@@ -80,6 +83,7 @@ body{
     padding: 20px;
     font-size: 2.2em;
     font-weight: bold;
+margin-top: 90px;
 }
 
 #choices{
@@ -87,7 +91,9 @@ body{
     position: absolute;
     right : 0;
     top : 125px;
-    padding : 10px
+    padding : 10px;
+    margin-top: 100px;
+
 }
 .choice{
     display: inline-block;
